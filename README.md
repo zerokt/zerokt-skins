@@ -8,5 +8,5 @@ i have over 200 skins that i edited on my own, the ones here are just my main on
 ![](https://osu.ppy.sh/ss/15474712/7eab)
 
 #  DD/MM/YYYY
-# (05/08/2020)!zerokt CLEAN
-# (30/08/2020)!zerokt CLEAN 2.0  (catcher and hitsounds change.)
+# (05/08/2020)!zerokt CLEAN (supports ctb,std and mania.)
+# (30/08/2020)!zerokt CLEAN 2.0 (catcher and hitsounds change.)
