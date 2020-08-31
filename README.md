@@ -1,5 +1,6 @@
 # zerokt-skins
-i have over 200 skins that i edited on my own, the ones here are just my main ones.
+i have over 200 skins that i edited on my own, these are the ones i use most of the time. 
+i'll keep adding more skins here overtime
 
 # [!zerokt CLEAN](https://drive.google.com/file/d/1H8QpSHZbAfcKJi8TzOI-OldjuHirLMOp/view?usp=sharing)
 ![](https://osu.ppy.sh/ss/15474705/778c)
