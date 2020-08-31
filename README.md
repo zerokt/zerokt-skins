@@ -13,4 +13,4 @@ i have over 200 skins that i edited on my own, the ones here are just my main on
 #  DD/MM/YYYY
 # (05/08/2020) !zerokt CLEAN (supports ctb,std and mania.)
 # (30/08/2020) !zerokt CLEAN 2.0 (catcher and hitsounds changes.)
-# (31/08/2020) !zerokt CLEAN 2.1 #neta (catcher + droplets + Combo1 changes.)
+# (31/08/2020) !zerokt CLEAN 2.1 #neta (catcher + droplets + HyperDashFruit Colour + Combo1 changes.)
