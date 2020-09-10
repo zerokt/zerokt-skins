@@ -4,10 +4,10 @@ i'll keep adding more skins here overtime.
 please check the bottom to see the changes!
 
 # [!zerokt CLEAN](https://drive.google.com/file/d/1H8QpSHZbAfcKJi8TzOI-OldjuHirLMOp/view?usp=sharing)
-![](https://osu.ppy.sh/ss/15474705/778c)
+![](https://imgur.com/1CByTJX.png)
 
 # [!zerokt CLEAN 2.0](https://drive.google.com/file/d/1s_ZxLAJIi-x8wd42UzFIBwg28T0TSs67/view?usp=sharing) 
-![](https://osu.ppy.sh/ss/15474712/7eab)
+![](https://imgur.com/xQBn4Xd.png)
 
 # [!zerokt CLEAN 2.0 #noscoreprefix](https://drive.google.com/file/d/16MJY0sJdU5826tRnFDEcX9_ec2Kz5XwG/view?usp=sharing) 
 ![](https://imgur.com/lkSmlGG.png)
