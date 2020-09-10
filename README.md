@@ -13,7 +13,7 @@ please check the bottom to see the changes!
 ![](https://imgur.com/lkSmlGG.png)
 
 # [!zerokt CLEAN 2.1 #neta](https://drive.google.com/file/d/13s5WTBZSMADaPJwkZRpTshhqW7mv_Ltn/view?usp=sharing) 
-![](https://osu.ppy.sh/ss/15481202/896f)
+![](https://imgur.com/tYFym7N.png)
 
 # [!zerokt CLEAN 2.0 #noscoreCOLOUR](https://drive.google.com/file/d/1LJHZBPh7_mbTRAAlq8FMrwPjM7Te-6gi/view?usp=sharing) 
 ![](https://imgur.com/6mufbK5.png)
