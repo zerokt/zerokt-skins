@@ -18,6 +18,8 @@ please check the bottom to see the changes!
 # [!zerokt CLEAN 2.0 #noscoreCOLOUR](https://drive.google.com/file/d/1LJHZBPh7_mbTRAAlq8FMrwPjM7Te-6gi/view?usp=sharing) 
 ![](https://imgur.com/6mufbK5.png)
 
+# [!zerokt GRIS](https://drive.google.com/file/d/10tdjYM7u_BN_sUtbQMKgLG7SyMAhTOqt/view?usp=sharing) 
+![](https://imgur.com/a9epLhg.png)
 
 #  DD/MM/YYYY
 # (05/08/2020) !zerokt CLEAN (supports ctb,std and mania.)
@@ -25,3 +27,4 @@ please check the bottom to see the changes!
 # (31/08/2020) !zerokt CLEAN 2.1 #neta (catcher + droplets + HyperDashFruit Colour + Combo1 changes.)
 # (01/09/2020) !zerokt CLEAN 2.0 #noscoreprefix (doesnt show score/accuracy/invisible resultscreen)
 # (10/09/2020) !zerokt CLEAN 2.0 #noscoreCOLOUR (15 different ryuutas to choose the one you prefer + noscoreprefix + hitsounds from 2.0)
+# (13/09/2020) !zerokt GRIS (gris themed skin + ctb elements)
