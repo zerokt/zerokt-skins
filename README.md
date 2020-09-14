@@ -21,6 +21,9 @@ please check the bottom to see the changes!
 # [!zerokt GRIS](https://drive.google.com/file/d/10tdjYM7u_BN_sUtbQMKgLG7SyMAhTOqt/view?usp=sharing) 
 ![](https://imgur.com/a9epLhg.png)
 
+# [!zerokt CLEAN 2.0 #noscoreNETA](https://drive.google.com/file/d/1aUwZJyTmHhG2LLj2Q7305vZE4aenmDc2/view?usp=sharing) 
+![](https://imgur.com/j1yUg1j.png)
+
 #  DD/MM/YYYY
 # (05/08/2020) !zerokt CLEAN (supports ctb,std and mania.)
 # (30/08/2020) !zerokt CLEAN 2.0 (catcher and hitsounds changes.)
@@ -28,3 +31,4 @@ please check the bottom to see the changes!
 # (01/09/2020) !zerokt CLEAN 2.0 #noscoreprefix (doesnt show score/accuracy/invisible resultscreen)
 # (10/09/2020) !zerokt CLEAN 2.0 #noscoreCOLOUR (15 different ryuutas to choose the one you prefer + noscoreprefix + hitsounds from 2.0)
 # (13/09/2020) !zerokt GRIS (gris themed skin + ctb elements)
+# (13/09/2020) !zerokt CLEAN 2.0 #noscoreNETA (same as 2.0 #noscoreprefix but with neta's catcher + green hyperdashfruit + different hitsounds)
