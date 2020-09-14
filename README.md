@@ -25,7 +25,7 @@ please check the bottom to see the changes!
 ![](https://imgur.com/j1yUg1j.png)
 
 # [zerokturn LS CHROMA](https://drive.google.com/file/d/1uKDhFbf6dygI45c7_iePCTeNVY5kkMPa/view) 
-![](https://imgur.com/7LrSf4x.png)
+![](https://imgur.com/SunfT2T.png)
 
 #  DD/MM/YYYY
 # (05/08/2020) !zerokt CLEAN (supports ctb,std and mania.)
