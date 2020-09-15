@@ -18,7 +18,7 @@ please check the bottom to see the changes!
 # [!zerokt CLEAN 2.0 #noscoreCOLOUR](https://drive.google.com/file/d/1LJHZBPh7_mbTRAAlq8FMrwPjM7Te-6gi/view?usp=sharing) 
 ![](https://imgur.com/6mufbK5.png)
 
-# [!zerokt GRIS](https://drive.google.com/file/d/10tdjYM7u_BN_sUtbQMKgLG7SyMAhTOqt/view?usp=sharing) 
+# [!zerokt GRIS #noscore](https://drive.google.com/file/d/1VG4trtN_o76ooO8qXoRleycNaXbHJOiz/view?usp=sharing) 
 ![](https://imgur.com/a9epLhg.png)
 
 # [!zerokt CLEAN 2.0 #noscoreNETA](https://drive.google.com/file/d/1aUwZJyTmHhG2LLj2Q7305vZE4aenmDc2/view?usp=sharing) 
@@ -33,6 +33,6 @@ please check the bottom to see the changes!
 # (31/08/2020) !zerokt CLEAN 2.1 #neta (catcher + droplets + HyperDashFruit Colour + Combo1 changes.)
 # (01/09/2020) !zerokt CLEAN 2.0 #noscoreprefix (doesnt show score/accuracy/invisible resultscreen)
 # (10/09/2020) !zerokt CLEAN 2.0 #noscoreCOLOUR (15 different ryuutas to choose the one you prefer + noscoreprefix + hitsounds from 2.0)
-# (13/09/2020) !zerokt GRIS (gris themed skin + ctb elements)
+# (13/09/2020) !zerokt GRIS #noscore (gris themed skin + ctb elements +noscore)
 # (13/09/2020) !zerokt CLEAN 2.0 #noscoreNETA (same as 2.0 #noscoreprefix but with neta's catcher + green hyperdashfruit + different hitsounds)
 # (14/09/2020) zerokturn LS CHROMA (skin i used to play with back in 2019) 
