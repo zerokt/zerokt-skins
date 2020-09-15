@@ -19,7 +19,7 @@ please check the bottom to see the changes!
 ![](https://imgur.com/6mufbK5.png)
 
 # [!zerokt GRIS #noscore](https://drive.google.com/file/d/1VG4trtN_o76ooO8qXoRleycNaXbHJOiz/view?usp=sharing) 
-![](https://imgur.com/a9epLhg.png)
+![](https://imgur.com/7veHxSk.png)
 
 # [!zerokt CLEAN 2.0 #noscoreNETA](https://drive.google.com/file/d/1aUwZJyTmHhG2LLj2Q7305vZE4aenmDc2/view?usp=sharing) 
 ![](https://imgur.com/j1yUg1j.png)
