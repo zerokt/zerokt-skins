@@ -1,5 +1,5 @@
 # zerokt-skins
-i have over 200 skins that i edited on my own, these are the ones i use most of the time. 
+i have over 300 skins that i edited on my own, these are the ones i use most of the time. 
 i'll keep adding more skins here overtime.
 please check the bottom to see the changes!
 
