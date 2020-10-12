@@ -18,7 +18,7 @@ please check the bottom to see the changes!
 # [!zerokt CLEAN 2.0 #noscoreCOLOUR](https://drive.google.com/file/d/1LJHZBPh7_mbTRAAlq8FMrwPjM7Te-6gi/view?usp=sharing) 
 ![](https://imgur.com/6mufbK5.png)
 
-# [!zerokt GRIS #noscore](https://drive.google.com/file/d/1WLc6xKZOzaO3yH2QJpMcq-EYjDkZlrSq/view?usp=sharing) - 
+# [!zerokt GRIS #noscore](https://drive.google.com/file/d/1WLc6xKZOzaO3yH2QJpMcq-EYjDkZlrSq/view?usp=sharing)  
 ![](https://imgur.com/Ud8j54w.png)
 
 # [!zerokt CLEAN 2.0 #noscoreNETA](https://drive.google.com/file/d/1aUwZJyTmHhG2LLj2Q7305vZE4aenmDc2/view?usp=sharing) 
@@ -27,7 +27,7 @@ please check the bottom to see the changes!
 # [zerokturn LS CHROMA](https://drive.google.com/file/d/1uKDhFbf6dygI45c7_iePCTeNVY5kkMPa/view) 
 ![](https://imgur.com/SunfT2T.png)
 
-# [!zerokt ea](https://drive.google.com/file/d/1WNxnbYrUMYaBb6Xxo_cMag6nAGBt_7BG/view?usp=sharing) ***mainly using this  one atm***
+# [!zerokt ea](https://drive.google.com/file/d/1WNxnbYrUMYaBb6Xxo_cMag6nAGBt_7BG/view?usp=sharing) - ***mainly using this  one atm***
 ![](https://imgur.com/rIj9bxo.png)
 
 #  DD/MM/YYYY
