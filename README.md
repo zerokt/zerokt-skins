@@ -3,9 +3,8 @@ i have over 300 skins that i edited on my own, these are the ones i use most of 
 i'll keep adding more skins here overtime.
 please check the bottom to see the changes!
 
-from most recent/last uploaded
-⬆️
-oldest
+from most recent/last uploaded to oldest.
+(skin on top means more recent)
 
 # [!zerokt ea](https://drive.google.com/file/d/1WNxnbYrUMYaBb6Xxo_cMag6nAGBt_7BG/view?usp=sharing) - ***mainly using this  one atm***
 ![](https://imgur.com/rIj9bxo.png)
