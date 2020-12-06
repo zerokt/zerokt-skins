@@ -1,6 +1,7 @@
 # zerokt-skins
 i have over 300 skins that i edited on my own, these are the ones i use most of the time. 
-i'll keep adding more skins here overtime.
+i'll keep adding more skins here overtime. 
+please note that this may be kinda outdated by the time you are reading this due to the fact that i sometimes just opt to not upload a skin because i still think that i can add more stuff to my liking in it, or im just lazy.                                                                                                                                 
 all info in the bottom 
 
 ***if any element from any skin seems to be messed up for you,  its very likely that its because of the resolution. all of these skins i edit thinking about myself and the resolution that i use. (1440x900)***
