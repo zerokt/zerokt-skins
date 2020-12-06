@@ -1,10 +1,12 @@
 # zerokt-skins
 i have over 300 skins that i edited on my own, these are the ones i use most of the time. 
 i'll keep adding more skins here overtime.
-please check the bottom to see the changes!
+all info in the bottom 
+
+***if any element from any skin seems to be messed up for you,  its very likely that its because of the resolution. all of these skins i edit thinking about myself and the resolution that i use. (1440x900)***
 
 from most recent/last uploaded to oldest.
-(skin on top means more recent)
+(***skin on top means more recent***)
 
 # [!zerokt ea](https://drive.google.com/file/d/1WNxnbYrUMYaBb6Xxo_cMag6nAGBt_7BG/view?usp=sharing) - ***mainly using this  one atm***
 ![](https://imgur.com/rIj9bxo.png)
