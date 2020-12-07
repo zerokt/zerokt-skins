@@ -9,7 +9,7 @@ all info in the bottom
 from most recent/last uploaded to oldest.                                                                                                                                        
 (***skin on top means more recent***)
 
-# [!zerokt ea](https://drive.google.com/file/d/1WNxnbYrUMYaBb6Xxo_cMag6nAGBt_7BG/view?usp=sharing) - ***mainly using this  one atm***
+# [!zerokt ea](https://drive.google.com/file/d/1WNxnbYrUMYaBb6Xxo_cMag6nAGBt_7BG/view?usp=sharing) - ***mainly using this  one atm (ctb)***
 ![](https://imgur.com/rIj9bxo.png)
 
 # [zerokturn LS CHROMA](https://drive.google.com/file/d/1uKDhFbf6dygI45c7_iePCTeNVY5kkMPa/view) 
