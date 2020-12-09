@@ -9,6 +9,18 @@ all info in the bottom
 from most recent/last uploaded to oldest.                                                                                                                                        
 (***skin on top means more recent***)
 
+===========================================================================
+std skins
+
+# [☁zeroktEA☁](https://drive.google.com/file/d/1sWBiupwoubhWH9jRXu3ZG9lt0BjOEbtc/view?usp=sharing)
+![](https://imgur.com/ZChXSVx.png)
+
+# [☁zeroktEAsy☁](https://drive.google.com/file/d/1GevMAoMCFdEjJXhYWqLrjQg2jL-1Umpp/view?usp=sharing)
+![](https://imgur.com/mImLzoM.png)
+
+============================================================================
+ctb skins
+
 # [!zerokt ea](https://drive.google.com/file/d/1WNxnbYrUMYaBb6Xxo_cMag6nAGBt_7BG/view?usp=sharing) - ***mainly using this  one atm (ctb)***
 ![](https://imgur.com/rIj9bxo.png)
 
@@ -48,3 +60,5 @@ from most recent/last uploaded to oldest.
 # (13/09/2020) !zerokt CLEAN 2.0 #noscoreNETA (same as 2.0 #noscoreprefix but with neta's catcher + green hyperdashfruit + different hitsounds)
 # (14/09/2020) zerokturn LS CHROMA (skin i used to play with back in 2019) 
 # (12/10/2020) !zerokt ea (mixed skin with things that i liked from other skins, tried to make it look kinda clean. std/ctb/taiko)
+# (09/12/2020) ☁zeroktEA☁  (main one)
+# (09/12/2020) ☁zeroktEAsy☁ (good one too)
