@@ -9,8 +9,8 @@ all info in the bottom
 from most recent/last uploaded to oldest.                                                                                                                                        
 (***skin on top means more recent***)
 
-============================================================================================
-std skins
+
+**std skins**
 
 # [☁zeroktEA☁](https://drive.google.com/file/d/1sWBiupwoubhWH9jRXu3ZG9lt0BjOEbtc/view?usp=sharing)
 ![](https://imgur.com/ZChXSVx.png)
@@ -18,8 +18,8 @@ std skins
 # [☁zeroktEAsy☁](https://drive.google.com/file/d/1GevMAoMCFdEjJXhYWqLrjQg2jL-1Umpp/view?usp=sharing)
 ![](https://imgur.com/mImLzoM.png)
 
-============================================================================================
-ctb skins
+
+**ctb skins**
 
 # [!zerokt ea](https://drive.google.com/file/d/1WNxnbYrUMYaBb6Xxo_cMag6nAGBt_7BG/view?usp=sharing) - ***mainly using this  one atm (ctb)***
 ![](https://imgur.com/rIj9bxo.png)
