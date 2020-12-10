@@ -20,7 +20,8 @@ from most recent/last uploaded to oldest.
 # [☁zeroktEAsy☁](https://drive.google.com/file/d/1GevMAoMCFdEjJXhYWqLrjQg2jL-1Umpp/view?usp=sharing)
 ![](https://imgur.com/mImLzoM.png)
 
-
+# [☁zeroktEA2☁](https://drive.google.com/file/d/1YKLp53VnqFFywd3R65gp3YozN_jXtLnE/view?usp=sharing)
+![](https://imgur.com/QxG6sSz.png)
 
 
 #  **ctb skins**
@@ -66,3 +67,4 @@ from most recent/last uploaded to oldest.
 # (12/10/2020) !zerokt ea (mixed skin with things that i liked from other skins, tried to make it look kinda clean. std/ctb/taiko)
 # (09/12/2020) ☁zeroktEA☁  (main one)
 # (09/12/2020) ☁zeroktEAsy☁ (good one too)
+# (10/12/2020) ☁zeroktEA2☁  (👍)
