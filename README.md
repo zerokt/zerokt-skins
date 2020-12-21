@@ -16,9 +16,11 @@ from most recent/last uploaded to oldest.
 
 # [☁zeroktEA2☁](https://drive.google.com/file/d/1YKLp53VnqFFywd3R65gp3YozN_jXtLnE/view?usp=sharing)
 ![](https://imgur.com/QxG6sSz.png)
+![](https://imgur.com/7d8chiE.gif)
 
 # [☁zeroktEA☁](https://drive.google.com/file/d/1MCudlhLoPSCEr0zFuf_d1CW7ROZYbbQN/view?usp=sharing)
 ![](https://imgur.com/ZChXSVx.png)
+![](https://imgur.com/hHCVUHP.gif)
 
 # [☁zeroktEAsy☁](https://drive.google.com/file/d/1GevMAoMCFdEjJXhYWqLrjQg2jL-1Umpp/view?usp=sharing)
 ![](https://imgur.com/mImLzoM.png)
