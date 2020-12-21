@@ -24,6 +24,7 @@ from most recent/last uploaded to oldest.
 
 # [☁zeroktEAsy☁](https://drive.google.com/file/d/1GevMAoMCFdEjJXhYWqLrjQg2jL-1Umpp/view?usp=sharing)
 ![](https://imgur.com/mImLzoM.png)
+![](https://imgur.com/CHKHOoF.gif)
 
 
 #  **ctb skins**
