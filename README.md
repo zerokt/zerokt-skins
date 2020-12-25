@@ -29,6 +29,9 @@ from most recent/last uploaded to oldest.
 
 #  **ctb skins**
 
+# [☁zerokteditbrasil☁](https://drive.google.com/file/d/1-Qy7J7xJMENA0ug-gIeWTVPclbsGezwg/view?usp=sharing)
+![](https://imgur.com/opI0biU.gif)
+
 # [!zerokt ea](https://drive.google.com/file/d/1WNxnbYrUMYaBb6Xxo_cMag6nAGBt_7BG/view?usp=sharing) - ***mainly using this  one atm (ctb)***
 ![](https://imgur.com/rIj9bxo.png)
 
@@ -71,3 +74,4 @@ from most recent/last uploaded to oldest.
 # (09/12/2020) ☁zeroktEA☁  (main one)
 # (09/12/2020) ☁zeroktEAsy☁ (good one too)
 # (10/12/2020) ☁zeroktEA2☁  (👍)
+# (25/12/2020) ☁zerokteditbrasil☁ (ea ec)                
