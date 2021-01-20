@@ -6,7 +6,7 @@ all info in the bottom
 
 ***if any element from any skin seems to be messed up for you,  its very likely that its because of the >>resolution<<. all of these skins i edit thinking about myself and the resolution that i use. (1440x900)***
 
-from most recent/last uploaded to oldest.                                                                                                                                        
+from most recent/last ***uploaded*** to oldest.                                                                                                                                        
 (***skin on top means more recent***)
 
 
