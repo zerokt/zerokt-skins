@@ -14,10 +14,6 @@ from most recent/last ***uploaded*** to oldest.
 
 #  **std skins**
 
-# [☁zeroktEA2☁](https://drive.google.com/file/d/1YKLp53VnqFFywd3R65gp3YozN_jXtLnE/view?usp=sharing)
-![](https://imgur.com/QxG6sSz.png)
-![](https://imgur.com/7d8chiE.gif)
-
 # [☁zeroktEA☁](https://drive.google.com/file/d/1MCudlhLoPSCEr0zFuf_d1CW7ROZYbbQN/view?usp=sharing)
 ![](https://imgur.com/ZChXSVx.png)
 ![](https://imgur.com/hHCVUHP.gif)
@@ -61,3 +57,4 @@ from most recent/last ***uploaded*** to oldest.
 # (10/12/2020) ☁zeroktEA2☁  (👍)
 # (25/12/2020) ☁zerokteditbrasil☁ (ea ec)                
 # (17/01/2021) deleted some std/ctb skins 
+# (31/01/20/21) deleted some skins
