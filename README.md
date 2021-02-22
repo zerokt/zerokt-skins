@@ -14,7 +14,7 @@ from most recent/last ***uploaded*** to oldest.
 
 #  **std skins**
 
-# [☁zeroktEA☁](https://drive.google.com/file/d/1MCudlhLoPSCEr0zFuf_d1CW7ROZYbbQN/view?usp=sharing)
+# [☁zeroktEA☁](https://drive.google.com/file/d/1MCudlhLoPSCEr0zFuf_d1CW7ROZYbbQN/view?usp=sharing) - ***hardly ever use this nowadays***
 ![](https://imgur.com/ZChXSVx.png)
 ![](https://imgur.com/hHCVUHP.gif)
 
