@@ -1,13 +1,16 @@
 # zerokt-skins
 i have over 300 skins that i edited on my own, these are the ones i use most of the time. 
-i'll keep adding more skins here, if i think they deserve to be here.                                                                                                                                                                                                                                                                                                            
+i'll keep adding more skins here, if i think they deserve to be here.           
+                                                                                                                                                                                                                                                                                              
 please note that maybe i just opt to not upload a specific skin here                                                                                                                               
 all info in the bottom 
 
 ***if any element from any skin seems to be messed up for you,  its very likely that its because of the >>resolution<<. all of these skins i edit thinking about myself and the resolution that i use. (1440x900)***
+- 1440x900 75 hz 3 yo membrane kb  
 
 from most recent/last ***uploaded*** to oldest.                                                                                                                                        
 (***skin on top means more recent***)
+
 
 
 
